@@ -85,7 +85,7 @@ export default function Support() {
             
             <div className="relative z-10">
               <p className="text-lg sm:text-xl text-gray-300 leading-relaxed" data-testid="text-about-description">
-                Blizzard is a revolutionary Discord bot designed to transform your server experience with cutting-edge AI technology and powerful automation. Built for communities of all sizes, Blizzard combines intelligent moderation with versatile utility features to create safer, more engaging Discord environments. Whether you're managing a gaming clan, study group, or creative community, Blizzard adapts to your needs with customizable commands, smart content filtering, and seamless integration. Our advanced algorithms work tirelessly to maintain server quality while our intuitive tools empower moderators and delight members. Experience the future of Discord server management with Blizzard.
+               Blizzard is the all rounder bot you need for your server. It is planned to provide you and your server best experience through all rounding systems like Moderation, Verification, Engagement etc.
               </p>
             </div>
           </Card>
